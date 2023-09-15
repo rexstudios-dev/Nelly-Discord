@@ -17,7 +17,7 @@ Nelly Bot es un bot multifuncional diseñado para mejorar la experiencia en tu s
 
 ## Cómo Agregar a Nelly Bot a tu Servidor
 
-1. Haz clic en este [enlace de invitación](https://discord.com/api/oauth2/authorize?client_id=1143927523655303178&permissions=8&scope=bot).
+1. Haz clic en este [enlace de invitación](https).
 2. Selecciona el servidor al que deseas agregar a Nelly Bot.
 3. Sigue las instrucciones para completar el proceso de invitación.
 
@@ -25,6 +25,6 @@ Nelly Bot es un bot multifuncional diseñado para mejorar la experiencia en tu s
 
 Únete a nuestro servidor de soporte para obtener ayuda, hacer preguntas y mantenerte actualizado sobre las últimas actualizaciones y características.
 
-[Enlace al Servidor de Soporte](https://discord.gg/qWZm87wvG8)
+[Enlace al Servidor de Soporte](https://discord.gg/qW7wvG8)
 
 ¡Gracias por elegir a Nelly Bot para mejorar tu servidor de Discord!
